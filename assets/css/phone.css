@@ -1,0 +1,11 @@
+@media all and (max-width: 1000px) {
+	.projet {width: 100%, margin 15px auto;}
+	.projet img {width: 100%; min-width: auto; height: auto;}
+	.projet .picture {width: 100%, height:auto;}
+	header h2 {width: 90%;}
+	#projet {width: 100%, margin15px auto;}
+
+
+
+
+}
